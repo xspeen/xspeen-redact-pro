@@ -3,7 +3,7 @@
 Enterprise-Grade Image Redaction & Forensic Recovery System
 
 <p align="center">
-  <img src="https://iili.io/qaVCse4.jpg" alt="XSPEEN-REDACT PRO Logo" width="400"/>
+  <img src="https://iili.io/qaVCse4.jpg" alt="XSPEEN-REDACT PRO Logo" width="900"/>
 </p>
 
 <p align="center">
@@ -530,7 +530,7 @@ SOFTWARE.
 ---
 
 <p align="center">
-  <img src="https://iili.io/qaVCse4.jpg" width="100"/>
+  <img src="https://iili.io/qaVCse4.jpg" width="900"/>
   <br/>
   <strong>🔞 XSPEEN-REDACT-PRO</strong>
   <br/>
